@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Base_Conversor", "Sistemas_de_Numeracion\Base_Conversor.vbproj", "{94F1A4B4-2019-4E1D-B57D-BCA2296F22E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D31F18F-C9EC-4303-B961-3FBC5A330CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F1A4B4-2019-4E1D-B57D-BCA2296F22E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F1A4B4-2019-4E1D-B57D-BCA2296F22E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F1A4B4-2019-4E1D-B57D-BCA2296F22E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F1A4B4-2019-4E1D-B57D-BCA2296F22E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF98EB0-5072-4EF9-8D1C-5FCCB6F101DC}
+	EndGlobalSection
+EndGlobal
